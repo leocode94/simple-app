@@ -1,0 +1,22 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.emails {
+  text-align: center;
+  font-size: xx-large;
+}
+
+.input {
+  font-size: large;
+  border-radius: 10px;
+  padding: 10px;
+  text-align: center;
+}
+
+.btn {
+  font-size: large;
+  margin-top: 30px;
+  border-radius: 10px;
+  padding: 10px;
+}
